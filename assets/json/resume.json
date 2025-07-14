@@ -1,12 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Alexandre Beaubien",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "alexandrebeaubien@uvic.ca",
+    "url": "https://alexandrebeaubien.github.io",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
