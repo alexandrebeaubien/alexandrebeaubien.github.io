@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm currently building this website, so it may look incomplete and broken.
+Hi, I'm currently building this website so it may look incomplete and broken.
