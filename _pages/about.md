@@ -1,15 +1,13 @@
 ---
 layout: about
-title: about
+title: Home 
 permalink: /
-subtitle: PhD Candidate in experimental high energy particle Physics at the <a href='https://www.uvic.ca/'>University of Victoria</a>
+subtitle: Particle Physics PhD Candidate, <a href='https://www.uvic.ca/'>University of Victoria</a>
 
 profile:
   align: right
   image: profile_photo.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>contact info</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,4 +23,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm currently building this website so it may look incomplete and broken.
+I am a Ph.D. candidate in High Energy Particle Physics at the <a href='https://www.uvic.ca/'>University of Victoria</a> working in collaboration with the <a href='https://www.belle2.org/'>Belle II Experiment</a>, a electron-positron collider located at the SuperKEKB collider in Tsukuba, Japan.
+
+My research touches multiple aspects of the research environment at <a href='https://www.belle2.org/'>Belle II</a>.
+I develop inovative software tools used in the analysis of our dataset including machine learning driven particle identification tools and an adversarially trained CNN-GAN used to simulate background waveforms in our electromagnetic calorimeter.
+I am also leading the measurement of the $e^+e^- -> \pi^+\pi^-$ cross section at the full SuperKEKB beam energy.
+I have recently participated in the development of a transversely polarized electron source for the proposed Chiral Belle upgrade to the SuperKEKB collider.
