@@ -52,12 +52,29 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{
+      },{id: "projects-background-waveform-generator-using-cnn-gans",
+          title: 'Background waveform generator using CNN-GANs',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_GAN/";
+            },},{id: "projects-charged-particle-pid-in-the-ecl-using-psd",
+          title: 'Charged particle PID in the ECL using PSD',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/project_PID/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%61%6C%65%78%61%6E%64%72%65%62%65%61%75%62%69%65%6E@%75%76%69%63.%63%61", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/alexandre-beaubien-a72739139", "_blank");
         },
       },{
         id: 'social-github',
@@ -72,13 +89,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://inspirehep.net/authors/2094819", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/alexandre-beaubien-a72739139", "_blank");
         },
       },{
         id: 'social-orcid',
