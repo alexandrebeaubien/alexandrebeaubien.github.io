@@ -62,9 +62,7 @@
       "startDate": "2018-05-01",
       "endDate": "2019-04-30",
       "summary": "Investigated background sources and rates in Belle II detector using first collision data and simulations under Prof. Andreas Warburton.",
-      "highlights": [
-        "Presented results at McGill undergraduate poster conference"
-      ]
+      "highlights": ["Presented results at McGill undergraduate poster conference"]
     },
     {
       "name": "University of Victoria",
@@ -73,10 +71,7 @@
       "startDate": "2019-09-01",
       "endDate": "",
       "summary": "Delivered tutorials and laboratory experiment courses for undergraduate physics courses.",
-      "highlights": [
-        "Prepared and delivered tutorials and labs",
-        "Marked lab reports and taught scientific writing"
-      ]
+      "highlights": ["Prepared and delivered tutorials and labs","Marked lab reports and taught scientific writing"]
     },
     {
       "name": "KEK, Tsukuba, Japan",
@@ -96,10 +91,7 @@
       "startDate": "2022-01-01",
       "endDate": "",
       "summary": "Lead association for student representation within the department, academic and social event organization, grant applications, and financial management.",
-      "highlights": [
-        "Chair executive meetings",
-        "Organised mentoring programs and events"
-      ]
+      "highlights": ["Chair executive meetings","Organised mentoring programs and events"]
     },
     {
       "organization": "Technoscience Mauricie",
@@ -251,4 +243,3 @@
   ],
   "projects": []
 }
-

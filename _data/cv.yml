@@ -11,7 +11,7 @@
   contents:
     - title: MSc
       institution: University of Victoria, Victoria, Canada
-      year: 2021 
+      year: 2021
       description:
         - Description 1.
         - Description 2.
@@ -19,9 +19,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: BScH 
+    - title: BScH
       institution: McGill University, Montreal, Canada
-      year: 2019 
+      year: 2019
       description:
         - Description 1.
         - Description 2.

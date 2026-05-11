@@ -2,7 +2,7 @@
 layout: page
 title: Charged particle PID in the ECL using PSD
 description:
-img: 
+img:
 importance: 1
 category: work
 related_publications: true
