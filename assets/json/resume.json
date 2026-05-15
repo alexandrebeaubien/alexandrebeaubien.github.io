@@ -85,17 +85,15 @@
   "volunteer": [
     {
       "organization": "Physics and Astronomy Graduate Student Association, University of Victoria",
-      "location": "Victoria, BC, Canada",
       "position": "Elected Chair",
       "url": "https://www.uvic.ca",
-      "startDate": "2022-01-01",
-      "endDate": "",
+      "startDate": "2022-10-01",
+      "endDate": "2024-09-30",
       "summary": "Lead association for student representation within the department, academic and social event organization, grant applications, and financial management.",
       "highlights": ["Chair executive meetings","Organised mentoring programs and events"]
     },
     {
       "organization": "Technoscience Mauricie",
-      "location": "Drummondville, QC, Canada",
       "position": "Scientific Animator",
       "url": "",
       "startDate": "2017-06-01",
@@ -104,7 +102,6 @@
     },
     {
       "organization": "Cégep de Drummondville",
-      "location": "Drummondville, QC, Canada",
       "position": "Tutor",
       "url": "",
       "startDate": "2015-09-01",
@@ -113,7 +110,6 @@
     },
     {
       "organization": "St-Bernard College",
-      "location": "Drummondville, QC, Canada",
       "position": "Homework Helper",
       "url": "",
       "startDate": "2015-09-01",
@@ -124,7 +120,6 @@
   "education": [
     {
       "institution": "University of Victoria",
-      "location": "Victoria, BC, Canada",
       "url": "https://www.uvic.ca",
       "area": "Experimental High Energy Physics",
       "studyType": "PhD",
@@ -135,7 +130,6 @@
     },
     {
       "institution": "University of Victoria",
-      "location": "Victoria, BC, Canada",
       "url": "https://www.uvic.ca",
       "area": "Experimental High Energy Physics",
       "studyType": "MSc",
@@ -146,7 +140,6 @@
     },
     {
       "institution": "McGill University",
-      "location": "Montréal, QC, Canada",
       "url": "https://www.mcgill.ca",
       "area": "Honours Physics",
       "studyType": "Bachelor of Science",
