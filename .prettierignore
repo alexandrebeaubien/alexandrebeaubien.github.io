@@ -12,3 +12,4 @@ _sass/tabler-icons/*.scss
 _scripts/*
 assets/json/resume.json
 _projects/*.md
+_pages/publications.md
