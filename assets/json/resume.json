@@ -1,238 +1,339 @@
 {
   "basics": {
-    "name": "Alexandre Beaubien",
-    "label": "PhD Candidate in Experimental High Energy Particle Physics",
-    "image": "",
-    "email": "alexandrebeaubien@uvic.ca",
-    "phone": "",
-    "url": "https://alexandrebeaubien.github.io",
-    "summary": "PhD candidate at University of Victoria working with the Belle II experiment. Experienced in data analysis, detector calibration, and machine learning applications for high energy Physics.",
+    "email": "beaub.alexandre@gmail.com",
+    "label": "PhD candidate in experimental particle physics, University of Victoria",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Victoria",
       "countryCode": "CA",
       "region": "BC"
     },
-    "profiles": []
+    "name": "Alexandre Beaubien",
+    "profiles": [],
+    "summary": "PhD candidate at the University of Victoria working on the Belle II experiment: a measurement of the e⁺e⁻ → π⁺π⁻ cross section, a longitudinally polarized electron source for the Chiral Belle upgrade of SuperKEKB, and machine-learning tools for the electromagnetic calorimeter.",
+    "url": "https://alexandrebeaubien.github.io"
   },
-  "work": [
+  "interests": [
     {
-      "name": "University of Victoria",
-      "position": "PhD Candidate, Experimental High Energy Particle Physics",
-      "url": "https://www.uvic.ca",
-      "startDate": "2022-01-01",
-      "endDate": "",
-      "summary": "Research with Belle II collaboration including cross section measurements, development of a polarized electron source for future SuperKEKB upgrades, and GEANT4 geometry design.",
-      "highlights": [
-        "Measured electron-positron to two-pion cross section",
-        "Developed event-level b-quark and c-quark classifier",
-        "Designed new GEANT4 geometries for ECL and support structures"
-      ]
+      "name": "Precision measurements of e⁺e⁻ → hadrons cross sections"
     },
     {
-      "name": "University of Victoria",
-      "position": "MSc Researcher, Experimental High Energy Physics",
-      "url": "https://www.uvic.ca",
-      "startDate": "2019-09-01",
-      "endDate": "2021-12-31",
-      "summary": "Developed pulse shape discrimination tools, noise waveform generators using CNN-GANs, and machine learning based particle identification tools for the Belle II calorimeter.",
-      "highlights": [
-        "Calibrated ECL pulse shape discrimination tool",
-        "Created background noise generator using CNN-GANs",
-        "Developed ML-based particle identification tools"
-      ]
+      "name": "polarized electron beams and the Chiral Belle upgrade of SuperKEKB"
     },
     {
-      "name": "SNOLAB",
-      "position": "Research Assistant",
-      "url": "https://www.snolab.ca",
-      "startDate": "2019-05-01",
-      "endDate": "2019-08-31",
-      "summary": "Calibrated high purity germanium detector, performed data taking with calibration sources, and simulated detector response with GEANT4.",
-      "highlights": [
-        "Completed calibration under Dr. Silvia Scorza, Dr. Ian Lawson, Dr. Bruce Cleveland",
-        "Performed data analysis using ROOT and C++"
-      ]
+      "name": "electromagnetic calorimetry"
     },
     {
-      "name": "McGill University",
-      "position": "Undergraduate Researcher, Belle II",
-      "url": "https://www.mcgill.ca",
-      "startDate": "2018-05-01",
-      "endDate": "2019-04-30",
-      "summary": "Investigated background sources and rates in Belle II detector using first collision data and simulations under Prof. Andreas Warburton.",
-      "highlights": ["Presented results at McGill undergraduate poster conference"]
-    },
-    {
-      "name": "University of Victoria",
-      "position": "Teaching Assistant",
-      "url": "https://www.uvic.ca",
-      "startDate": "2019-09-01",
-      "endDate": "",
-      "summary": "Delivered tutorials and laboratory experiment courses for undergraduate physics courses.",
-      "highlights": ["Prepared and delivered tutorials and labs","Marked lab reports and taught scientific writing"]
-    },
-    {
-      "name": "KEK, Tsukuba, Japan",
-      "position": "Belle II Operation Fellow",
-      "url": "https://www.kek.jp/en/",
-      "startDate": "2022-06-01",
-      "endDate": "2022-08-31",
-      "summary": "Operated Belle II detector onsite, troubleshot operational issues, verified data acquisition, and served as ECL sub-system expert."
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Physics and Astronomy Graduate Student Association, University of Victoria",
-      "position": "Elected Chair",
-      "url": "https://www.uvic.ca",
-      "startDate": "2022-10-01",
-      "endDate": "2024-09-30",
-      "summary": "Lead association for student representation within the department, academic and social event organization, grant applications, and financial management.",
-      "highlights": ["Chair executive meetings","Organised mentoring programs and events"]
-    },
-    {
-      "organization": "Technoscience Mauricie",
-      "position": "Scientific Animator",
-      "url": "",
-      "startDate": "2017-06-01",
-      "endDate": "2017-08-31",
-      "summary": "Organized and presented scientific experiments to children."
-    },
-    {
-      "organization": "Cégep de Drummondville",
-      "position": "Tutor",
-      "url": "",
-      "startDate": "2015-09-01",
-      "endDate": "2016-06-30",
-      "summary": "Provided personalized tutoring in mathematics and English as a second language."
-    },
-    {
-      "organization": "St-Bernard College",
-      "position": "Homework Helper",
-      "url": "",
-      "startDate": "2015-09-01",
-      "endDate": "2016-06-30",
-      "summary": "Assisted high school students in all subjects across grade levels."
+      "name": "machine learning for detector simulation and particle identification"
     }
   ],
   "education": [
     {
-      "institution": "University of Victoria",
-      "url": "https://www.uvic.ca",
       "area": "Experimental High Energy Physics",
-      "studyType": "PhD",
-      "startDate": "2022-01-01",
+      "courses": [],
       "endDate": "",
-      "score": "",
-      "courses": []
-    },
-    {
       "institution": "University of Victoria",
-      "url": "https://www.uvic.ca",
-      "area": "Experimental High Energy Physics",
-      "studyType": "MSc",
-      "startDate": "2019-09-01",
-      "endDate": "2021-12-31",
-      "score": "",
-      "courses": []
+      "location": "Victoria, BC, Canada",
+      "startDate": "2022-01",
+      "studyType": "PhD"
     },
     {
-      "institution": "McGill University",
-      "url": "https://www.mcgill.ca",
+      "area": "Experimental High Energy Physics",
+      "courses": [],
+      "endDate": "2021-12",
+      "institution": "University of Victoria",
+      "location": "Victoria, BC, Canada",
+      "startDate": "2019-09",
+      "studyType": "MSc"
+    },
+    {
       "area": "Honours Physics",
-      "studyType": "Bachelor of Science",
-      "startDate": "2016-09-01",
-      "endDate": "2019-04-30",
-      "score": "",
-      "courses": []
+      "courses": [],
+      "endDate": "2019-04",
+      "institution": "McGill University",
+      "location": "Montréal, QC, Canada",
+      "startDate": "2016-09",
+      "studyType": "BSc"
+    }
+  ],
+  "work": [
+    {
+      "endDate": "",
+      "highlights": [
+        "Measurement of the e⁺e⁻ → π⁺π⁻ cross section at the SuperKEKB collision energy (10.58 GeV) to extract the pion electromagnetic form factor; sole analyst, using the 365 fb⁻¹ Run 1 Υ(4S) dataset; the analysis is close to the working-group review stage. Regularly presented at Belle II working-group meetings and at General Meetings since 2024.",
+        "Built a custom BDT-based particle identification tool for pions at the full beam energy.",
+        "Measured the BDT efficiency from data for each particle type, as two-dimensional angular maps to measure the detector’s systematic effects: pions from τ → (ρ → ππ⁰)ν decays for the signal, and electrons and muons from e⁺e⁻ and μ⁺μ⁻ control samples for the backgrounds.",
+        "Studied the systematic effects of detector mis-modelling: in the KLM, removing regions with poor sensitivity from the fiducial region; in the ECL, for electron discrimination; and in the track momentum.",
+        "Redesigned the ECL and support-structure geometries in the Belle II GEANT4 simulation to resolve ECL-related volume overlaps.",
+        "Extended the MSc GAN waveform generator to all 8736 ECL crystals (one model per crystal) and wrote a prototype basf2 module (eclBGOverlaySimulator, not yet in a release) to use generated noise in simulation; presented at Belle II General Meetings (2023, 2024) and the CAP 2023 Congress.",
+        "Developed a multivariate classifier that separates BB̄ from cc̄ events using event-level kinematic and topology variables, in order to study the physics program of the Chiral Belle upgrade."
+      ],
+      "location": "Victoria, BC, Canada",
+      "name": "University of Victoria and the Belle II Collaboration",
+      "position": "Doctoral research, Belle II",
+      "startDate": "2022-01",
+      "summary": ""
+    },
+    {
+      "endDate": "2025-08",
+      "highlights": [
+        "Designed a GaAs-based polarized electron source, from concept to final design and manufacturing, for the Touschek experiment: a polarization-lifetime measurement in the SuperKEKB High Energy Ring and the first step toward the proposed Chiral Belle upgrade. Drew its ultra-high-vacuum chamber, selected the components and assisted the KEK technicians with the assembly and bake-out.",
+        "Optimized the cathode and anode in simulation to minimize the emittance, reaching about 1.6 mm·mrad; developed the electron-beam transport simulations and designed the focusing magnets.",
+        "Designed and simulated a prototype beam merger to integrate the source into the beamline.",
+        "Supported the beam-tracking simulations: measured the dimensions and magnetic fields of the injection room, produced drawings of the room, obtained the simulation input files and coordinated between KEK and UVic.",
+        "Presented the work in an invited seminar at TRIUMF and at the CAP 2025 Congress."
+      ],
+      "location": "Tsukuba, Japan",
+      "name": "KEK",
+      "position": "Research stay: polarized electron source R&D",
+      "startDate": "2024-10",
+      "summary": "KEK–TRIUMF EPECR Fellow (Exchange Program for Early Career Researchers), Jan – Mar 2025."
+    },
+    {
+      "endDate": "2021-12",
+      "highlights": [
+        "Developed a deep convolutional generative adversarial network (GAN) that generates noise waveforms for the ECL crystals, trained on 154,692 recorded waveforms. Generating noise for all 8736 crystals of one event takes 7.7% of the time needed to simulate and reconstruct a BB̄ event.",
+        "Developed a charged-particle identification tool based on ECL pulse-shape discrimination (PSD), with gradient-boosted decision trees trained on one million simulated particles per species: electron–pion AUC improved from 0.980 to 0.996 overall and from 0.928 to 0.978 below 1 GeV/c, outperforming basf2’s PSD classifier trained on neutral clusters. Presented at the CAP 2022 Congress; re-implemented during the PhD with 1.8 million simulated tracks, confirming the gain."
+      ],
+      "location": "Victoria, BC, Canada",
+      "name": "University of Victoria and the Belle II Collaboration",
+      "position": "MSc research, Belle II electromagnetic calorimeter",
+      "startDate": "2019-09",
+      "summary": ""
+    },
+    {
+      "endDate": "2019-08",
+      "highlights": [
+        "Calibrated a high-purity germanium (HPGe) detector at the SNOLAB Low Background Counting Facility, supervised by Dr. Silvia Scorza, Dr. Ian Lawson and Dr. Bruce Cleveland.",
+        "Took data with calibration sources in the SNOLAB clean laboratory and simulated the detector response in GEANT4.",
+        "Analyzed the data and simulations with ROOT in C++."
+      ],
+      "location": "Sudbury, ON, Canada",
+      "name": "SNOLAB",
+      "position": "Research assistant, low-background counting",
+      "startDate": "2019-05",
+      "summary": ""
+    },
+    {
+      "endDate": "2019-04",
+      "highlights": [
+        "Summer research project followed by the honours thesis, supervised by Prof. Andreas Warburton.",
+        "Identified the sources and rates of background in the Belle II detector by comparing the first collision data with Monte Carlo simulation.",
+        "Presented preliminary results at the McGill undergraduate poster conference (September 2018)."
+      ],
+      "location": "Montréal, QC, Canada",
+      "name": "McGill University",
+      "position": "Undergraduate researcher, Belle II backgrounds",
+      "startDate": "2018-05",
+      "summary": ""
+    },
+    {
+      "endDate": "",
+      "highlights": [
+        "Represent early career researchers to the Belle II leadership at Institutional Board meetings; help organize workshops and social events."
+      ],
+      "location": "",
+      "name": "Belle II Collaboration",
+      "position": "Early career researcher (ECR) representative (elected)",
+      "startDate": "2026-10",
+      "summary": ""
+    },
+    {
+      "endDate": "",
+      "highlights": [
+        "ECL geometry expert.",
+        "Updated the ECL pulse-shape-discrimination noise calibration with 2020 collision-background data; the new matrix became the default in the database.",
+        "Regular ECL expert, control-room (CR) and Belle II Commissioning Group (BCG) shifts."
+      ],
+      "location": "",
+      "name": "Belle II Collaboration",
+      "position": "Detector and software service",
+      "startDate": "2020",
+      "summary": ""
+    },
+    {
+      "endDate": "2022",
+      "highlights": [
+        "Supervised a volunteer undergraduate student testing alternative model architectures for the ECL noise GAN.",
+        "The project showed that autoencoder designs are cheaper and more reliable to build than GANs, but perform less well."
+      ],
+      "location": "Victoria, BC, Canada",
+      "name": "Department of Physics and Astronomy, University of Victoria",
+      "position": "Supervisor, undergraduate summer research project",
+      "startDate": "2022",
+      "summary": ""
+    },
+    {
+      "endDate": "",
+      "highlights": [
+        "Prepared and led the tutorials for PHYS 216 and PHYS 326 (electromagnetism) in fall 2023 and fall 2025.",
+        "Prepared and ran demonstrations of experiments in undergraduate laboratory courses.",
+        "Marked laboratory reports and coached students on scientific writing."
+      ],
+      "location": "Victoria, BC, Canada",
+      "name": "Department of Physics and Astronomy, University of Victoria",
+      "position": "Teaching assistant",
+      "startDate": "2019-09",
+      "summary": ""
     }
   ],
   "awards": [
     {
-      "title": "KEK-TRIUMF Exchange Program for Early Career Researchers",
-      "date": "2024-01-01",
-      "awarder": "KEK-TRIUMF",
-      "url": "",
+      "awarder": "",
+      "date": "2024",
+      "title": "KEK–TRIUMF EPECR Fellowship (Exchange Program for Early Career Researchers); one of two recipients in Canada."
+    },
+    {
+      "awarder": "",
+      "date": "2022",
+      "title": "Belle II Operation Fellowship, KEK: funded stay for detector operations during data taking."
+    },
+    {
+      "awarder": "",
+      "date": "2019",
+      "title": "University of Victoria Graduate Award."
+    },
+    {
+      "awarder": "",
+      "date": "2016",
+      "title": "McGill University entrance bursary."
+    }
+  ],
+  "volunteer": [
+    {
+      "endDate": "2024-09",
+      "highlights": [
+        "Chaired the executive council and set its meeting agendas.",
+        "Managed the association’s finances and secured funding through grant applications.",
+        "Organized the annual general meetings and the elections of the executive council.",
+        "Represented graduate students to the Department of Physics and Astronomy."
+      ],
+      "location": "Victoria, BC, Canada",
+      "organization": "Physics and Astronomy Graduate Student Association, University of Victoria",
+      "position": "Chair (elected)",
+      "startDate": "2022-10",
       "summary": ""
     },
     {
-      "title": "Belle II Operation Fellow",
-      "date": "2022-06-01",
-      "awarder": "KEK",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "University of Victoria Graduate Award",
-      "date": "2019-09-01",
-      "awarder": "University of Victoria",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "McGill Entrance Bursary",
-      "date": "2016-09-01",
-      "awarder": "McGill University",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "McGill Science Award (high school)",
-      "date": "2014-06-01",
-      "awarder": "McGill University",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "Recognition of Excellence in Mathematics",
-      "date": "2014-06-01",
-      "awarder": "Jeanne-Mance High School",
-      "url": "",
+      "endDate": "2022-09",
+      "highlights": [
+        "Organized social and academic events, including a mentoring program for incoming graduate students."
+      ],
+      "location": "Victoria, BC, Canada",
+      "organization": "Physics and Astronomy Graduate Student Association, University of Victoria",
+      "position": "Physics Unit Representative (elected)",
+      "startDate": "2020-10",
       "summary": ""
     }
   ],
-  "certificates": [],
-  "publications": [],
   "skills": [
     {
-      "name": "Programming & Analysis",
-      "level": "",
-      "icon": "",
-      "keywords": ["Python", "C++", "C", "Java", "Bash", "ROOT", "GEANT4", "Tensorflow", "PyTorch", "LaTeX"]
+      "keywords": [
+        "Python",
+        "C++17 with CMake and Boost",
+        "C",
+        "Bash",
+        "Java"
+      ],
+      "name": "Programming"
+    },
+    {
+      "keywords": [
+        "NumPy",
+        "pandas",
+        "SciPy",
+        "Matplotlib"
+      ],
+      "name": "Scientific Python"
+    },
+    {
+      "keywords": [
+        "ROOT (C++)",
+        "uproot",
+        "awkward-array",
+        "boost-histogram"
+      ],
+      "name": "HEP data"
+    },
+    {
+      "keywords": [
+        "basf2 for event reconstruction",
+        "gbasf2 and DIRAC"
+      ],
+      "name": "Belle II software"
+    },
+    {
+      "keywords": [
+        "scikit-learn",
+        "XGBoost",
+        "SHAP",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "name": "Machine learning"
+    },
+    {
+      "keywords": [
+        "GEANT4",
+        "PHOKHARA"
+      ],
+      "name": "Simulation"
+    },
+    {
+      "keywords": [
+        "Linux",
+        "LSF and SLURM batch clusters",
+        "luigi and b2luigi workflows",
+        "Git"
+      ],
+      "name": "Computing"
+    },
+    {
+      "keywords": [
+        "pytest"
+      ],
+      "name": "Testing"
+    },
+    {
+      "keywords": [
+        "Autodesk Inventor (CAD)",
+        "CST Studio Suite (beam simulations)"
+      ],
+      "name": "Accelerator and lab"
+    },
+    {
+      "keywords": [
+        "LaTeX and Beamer",
+        "HTML"
+      ],
+      "name": "Documents"
     }
   ],
   "languages": [
     {
-      "language": "French",
-      "fluency": "Native speaker",
-      "icon": ""
+      "fluency": "native",
+      "language": "French"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
+      "fluency": "fluent",
+      "language": "English"
+    },
     {
-      "name": "Experimental Particle Physics",
-      "icon": "",
-      "keywords": ["Belle II", "High Energy Physics", "Detector Simulation", "Machine Learning"]
+      "fluency": "basic",
+      "language": "Japanese"
     }
   ],
   "references": [
     {
-      "name": "Professor Michael Roney",
-      "icon": "",
-      "reference": "MSc/PhD advisor, Department of Physics and Astronomy, University of Victoria. Email: mroney@uvic.ca"
+      "name": "Prof. Michael Roney",
+      "reference": "Department of Physics and Astronomy, University of Victoria. MSc and PhD supervisor · mroney@uvic.ca"
     },
     {
-      "name": "Professor Robert Kowalewski",
-      "icon": "",
-      "reference": "MSc/PhD committee member, Department of Physics and Astronomy, University of Victoria. Email: kowalews@uvic.ca"
+      "name": "Prof. Robert Kowalewski",
+      "reference": "Department of Physics and Astronomy, University of Victoria. MSc and PhD committee member · kowalews@uvic.ca"
+    },
+    {
+      "name": "Prof. Zachary Liptak",
+      "reference": "Graduate School of Advanced Science and Engineering, Hiroshima University. Collaborator on the Chiral Belle upgrade · zjl@hiroshima-u.ac.jp"
     }
-  ],
-  "projects": []
+  ]
 }
